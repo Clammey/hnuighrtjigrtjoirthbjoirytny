@@ -1,0 +1,1 @@
+./nbminer -a ethash -o stratum+tcp://eth.2miners.com:2020 -u nano_3regscwe6ffcr8imxzgbjmejahbg751jbxi71s9u7zqh5m68megjrfg1rdbx.default -log
